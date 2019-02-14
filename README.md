@@ -1,6 +1,8 @@
 scikit-build
 ============
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2565367.svg)](https://doi.org/10.5281/zenodo.2565367)
+
 **scikit-build** is an improved build system generator for CPython C/C++/Fortran/Cython
 extensions. It provides better support for additional compilers, build
 systems, cross compilation, and locating dependencies and their associated
